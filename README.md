@@ -39,9 +39,8 @@ This assignment has two parts: **reading** and **writing**. Follow these steps t
 | **Criteria**               | **Points** | **Description**                                                                 |
 |----------------------------|------------|---------------------------------------------------------------------------------|
 | **Reading Notes**          | 30         | Notes capture main ideas, include sidenotes, and raise thoughtful questions.   |
-| **Class Participation**    | 20         | Active engagement in class discussions.                                        |
 | **Essay Content**          | 30         | Essay presents a clear stance and supports it with evidence and reasoning.     |
-| **Clarity and Structure**  | 10         | Writing is clear, concise, and well-organized.                                 |
+| **Clarity and Structure**  | 30         | Writing is clear, concise, and well-organized.                                 |
 | **Grammar and Mechanics**  | 10         | Writing is free of spelling, grammar, and punctuation errors.                  |
 
 **Total Points**: 100
